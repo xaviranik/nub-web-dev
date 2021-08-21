@@ -1,0 +1,5 @@
+Let's Learn Git
+
+- For New File: Untraked
+- For Modified file: Modified
+- For Deleted file: Deleted
