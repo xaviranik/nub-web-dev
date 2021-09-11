@@ -1,0 +1,29 @@
+h1 {
+    color: red;
+}
+
+#welcome {
+    color: blue;
+    font-size: 40px;
+}
+
+.info {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-bottom: 16px;
+    border-radius: 12px;
+}
+
+.info h1 {
+    color: white;
+}
+
+.info span {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.info .info-header {
+    color: aqua;
+}
